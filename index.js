@@ -1,5 +1,4 @@
-console.log("welcome")
-
-for (var i=0;i<5;i++){
-    console.log("code code ");
+console.log("welcome to playlist");
+for(var i=0;i<5;i++){
+    console.log("hello");
 }
